@@ -8,3 +8,4 @@ chromadb
 sentence-transformers
 pypdf
 python-dotenv
+pymupdf
