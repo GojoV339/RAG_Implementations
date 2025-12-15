@@ -1,8 +1,0 @@
-
-    Machine learning is a field of artificial intelligence that enables systems to learn from data and 
-    improve their performance over time without being explicitly programmed. Instead of following rigid 
-    instructions, machine learning models analyze patterns, relationships, and trends in data to make predictions 
-    or decisions. It is widely used in applications like image recognition, natural language processing, recommendation 
-    systems, autonomous vehicles, and fraud detection. With the growing availability of large datasets and powerful computing 
-    resources, machine learning has become one of the most impactful technologies shaping modern industries.
-    
