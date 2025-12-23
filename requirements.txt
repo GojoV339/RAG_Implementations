@@ -13,3 +13,6 @@ python-docs
 docx2txt
 unstructured[docx]
 openpyxl
+numpy
+matplotlib
+langchain-huggingface
